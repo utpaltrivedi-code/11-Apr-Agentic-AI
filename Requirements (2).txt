@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+langchain-openai
+streamlit
+pandas
+sqlalchemy
+python-dotenv
