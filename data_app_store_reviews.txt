@@ -1,0 +1,7 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+REV_001,iOS,1,The app crashes every time I try to attach a PDF larger than 5MB. Very frustrating.,JohnDoe,2026-05-10,3.2.1
+REV_002,Android,5,Absolutely love TaskFlow Pro! The new Kanban board is a lifesaver for my team.,JaneSmith,2026-05-11,3.2.1
+REV_003,iOS,3,It's okay, but I really need a dark mode. My eyes hurt looking at this at night.,NightOwl99,2026-05-12,3.2.1
+REV_004,Android,2,Search function is completely broken. It doesn't find tasks I created yesterday.,AngryUser,2026-05-13,3.2.0
+REV_005,Web,4,Great tool, but please add a Google Calendar two-way sync!,BusyManager,2026-05-14,3.2.1
+REV_006,Android,1,Settings page crashes instantly on my OnePlus 12. Cannot use the app.,OnePlusFan,2026-05-15,3.2.1

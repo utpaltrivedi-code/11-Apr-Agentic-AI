@@ -1,0 +1,6 @@
+email_id,subject,body,sender_email,timestamp,priority
+EML_001,Cannot Login,I reset my password but the app still will not let me log in. It just spins.,user1@example.com,2026-05-10T08:30:00Z,High
+EML_002,Feature Idea: Subtasks,Hello team! It would be amazing if we could break down our tasks into smaller subtasks.,user2@example.com,2026-05-11T09:15:00Z,Low
+EML_003,Billing Issue,I was charged twice this month for my Premium subscription! Please refund the extra charge immediately.,angry@example.com,2026-05-12T10:45:00Z,Critical
+EML_004,Push Notifications missing,I am on iOS 17 and I stopped getting push notifications for my due dates yesterday.,user3@example.com,2026-05-13T14:20:00Z,Medium
+EML_005,Earn $1000 a week working from home!!!,Click here to claim your prize and work from home easy money!,spammer@scam.com,2026-05-14T02:10:00Z,Low
